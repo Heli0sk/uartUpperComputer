@@ -2,6 +2,4 @@
 
 简单实现了串口通信，包括十六进制与字符串两种形式
 
-
-
-![上位机窗口示意图](image\image-version1.png)
+![image](https://github.com/Nero-iwnl/uartUpperComputer/blob/master/image/image-version1.png)
