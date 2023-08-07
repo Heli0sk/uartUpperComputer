@@ -1,0 +1,11 @@
+D:\CS Projects\uartTool\串口通信上位机\串口通信上位机\bin\Debug\串口通信上位机.exe.config
+D:\CS Projects\uartTool\串口通信上位机\串口通信上位机\bin\Debug\串口通信上位机.exe
+D:\CS Projects\uartTool\串口通信上位机\串口通信上位机\bin\Debug\串口通信上位机.pdb
+D:\CS Projects\uartTool\串口通信上位机\串口通信上位机\obj\Debug\串口通信上位机.csproj.AssemblyReference.cache
+D:\CS Projects\uartTool\串口通信上位机\串口通信上位机\obj\Debug\串口通信上位机.csproj.SuggestedBindingRedirects.cache
+D:\CS Projects\uartTool\串口通信上位机\串口通信上位机\obj\Debug\串口通信上位机.Form1.resources
+D:\CS Projects\uartTool\串口通信上位机\串口通信上位机\obj\Debug\串口通信上位机.Properties.Resources.resources
+D:\CS Projects\uartTool\串口通信上位机\串口通信上位机\obj\Debug\串口通信上位机.csproj.GenerateResource.cache
+D:\CS Projects\uartTool\串口通信上位机\串口通信上位机\obj\Debug\串口通信上位机.csproj.CoreCompileInputs.cache
+D:\CS Projects\uartTool\串口通信上位机\串口通信上位机\obj\Debug\串口通信上位机.exe
+D:\CS Projects\uartTool\串口通信上位机\串口通信上位机\obj\Debug\串口通信上位机.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "串口通信上位机", "串口通信上位机\串口通信上位机.csproj", "{172E3D02-ACAA-4D7B-91D2-C8D2BC68ED0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{172E3D02-ACAA-4D7B-91D2-C8D2BC68ED0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{172E3D02-ACAA-4D7B-91D2-C8D2BC68ED0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{172E3D02-ACAA-4D7B-91D2-C8D2BC68ED0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{172E3D02-ACAA-4D7B-91D2-C8D2BC68ED0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2205510F-C528-4289-9F97-B57ADE2D0B7C}
+	EndGlobalSection
+EndGlobal
