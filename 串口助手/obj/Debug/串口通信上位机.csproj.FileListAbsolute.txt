@@ -1,0 +1,11 @@
+D:\CS Projects\stm32串口助手\串口助手\obj\Debug\串口通信上位机.csproj.AssemblyReference.cache
+D:\CS Projects\stm32串口助手\串口助手\obj\Debug\串口通信上位机.csproj.SuggestedBindingRedirects.cache
+D:\CS Projects\stm32串口助手\串口助手\obj\Debug\串口助手.Properties.Resources.resources
+D:\CS Projects\stm32串口助手\串口助手\obj\Debug\串口通信上位机.csproj.GenerateResource.cache
+D:\CS Projects\stm32串口助手\串口助手\obj\Debug\串口通信上位机.csproj.CoreCompileInputs.cache
+D:\CS Projects\stm32串口助手\串口助手\obj\Debug\串口助手 V1.1.exe
+D:\CS Projects\stm32串口助手\串口助手\obj\Debug\串口助手 V1.1.pdb
+D:\CS Projects\stm32串口助手\串口助手\bin\Debug\串口助手 V1.1.exe.config
+D:\CS Projects\stm32串口助手\串口助手\bin\Debug\串口助手 V1.1.exe
+D:\CS Projects\stm32串口助手\串口助手\bin\Debug\串口助手 V1.1.pdb
+D:\CS Projects\stm32串口助手\串口助手\obj\Debug\串口助手.Form1.resources
